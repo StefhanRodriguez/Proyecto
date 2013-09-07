@@ -1,0 +1,33 @@
+plantilla inicio
+    Login
+    Descripcion de la pag.
+    Logo
+
+menu
+    General
+        Perfil
+    Vista de grupo
+    Vista de calificaciones
+    Vista de asistencia
+
+Alumno
+    menu
+        Reg. clase
+        Vista de grupos
+        Asistencia de grupo
+        Calificacion de grupo
+
+
+Profesor
+    menu
+        Alta grupo
+        Edicion / Consulta
+        Listade alumnos
+        Lista de asistencias por grupo/alumno
+        Lista de calificaciones por grupo/alumno
+
+header
+    Logo
+
+footer
+    About Us
